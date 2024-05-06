@@ -9,6 +9,7 @@ packages = [{include = "geofaker"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+geopandas = "0.14.1"
 
 
 [build-system]
